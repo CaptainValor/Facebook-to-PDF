@@ -15,7 +15,7 @@ This script converts the downloaded photos and JSON data from a Facebook album g
 1. Use PhotoGrabber to download the Facebook album you would like to convert
 2. Copy ``album_to_pdf.rb`` into the same directory as the ``album.json`` file created by PhotoGrabber
 3. Run the following in your terminal: ``ruby album_to_pdf.rb``
-4. The PDF is saved as ``outfile.pdf`` in the same directory as the script
+4. The PDF is saved in the same directory as the script
 
 ## Contact
 
